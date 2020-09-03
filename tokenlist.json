@@ -1,0 +1,49 @@
+{
+  "name": "Fiscus.fyi",
+  "logoURI": "ipfs://QmdJG9HqSsW6yQk3hUoaZx2SUCD8QcwobisDwHufiPd4FH",
+  "keywords": [
+    "audited",
+    "verified",
+    "fiscus tokens"
+  ],
+  "tags": {
+    "governance": {
+      "name": "Governance",
+      "description": "Governance Tokens"
+    },
+    "fiscus": {
+      "name": "Fiscus Finance",
+      "description": "Tokens that earn interest on Fiscus.fyi"
+    }
+  },
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5FE5f2f7D1d39B54782cc3399629B4269f9E0381",
+      "symbol": "FFYI",
+      "name": "Fiscus Governance Coin",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdJG9HqSsW6yQk3hUoaZx2SUCD8QcwobisDwHufiPd4FH",
+      "tags": [
+        "governance"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc78Cf46E3F92C84c3658dbFB3db078827764AF2d",
+      "symbol": "uFFYI",
+      "name": "Fiscus Coin",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPPp4hZU53Z8Mxa8SfyE7rgV62x8vPG4HvjGxG5WMxkz9",
+      "tags": [
+        "fiscus"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
