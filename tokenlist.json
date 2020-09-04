@@ -20,7 +20,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5FE5f2f7D1d39B54782cc3399629B4269f9E0381",
+      "address": "0x5AE7EDeE0BA85ab160CD59fc7Cc75321975441FB",
       "symbol": "FFYI",
       "name": "Fiscus Governance Coin",
       "decimals": 18,
@@ -31,7 +31,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xc78Cf46E3F92C84c3658dbFB3db078827764AF2d",
+      "address": "0x9a8a2e2013fA0e06C69A28Fe056E6C8D7cDBB5Cc",
       "symbol": "uFFYI",
       "name": "Fiscus Coin",
       "decimals": 18,
