@@ -49,6 +49,16 @@
       "tags": [
         "fiscus"
       ]
+    },
+    {
+      "chainId": 42,
+      "address": "0x3F80c39c0b96A0945f9F0E9f55d8A8891c5671A8",
+      "symbol": "KNC",
+      "name": "KNC coin",
+      "decimals": 18,
+      "tags": [
+        "fiscus"
+      ]
     }
   ],
   "version": {
